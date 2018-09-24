@@ -14,6 +14,9 @@ A collection of helpful resources on software/technology.
 - [PSR-2: Coding Style Guide](https://www.php-fig.org/psr/)
 - [Buggy PHP Code: The 10 Most Common Mistakes PHP Developers Make](https://www.toptal.com/php/10-most-common-mistakes-php-programmers-make)
 
+## Security
+
+- [PhishTank | Join the fight against phishing](http://phishtank.com/)
 
 ## Videos
 
